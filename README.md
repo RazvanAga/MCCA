@@ -2,8 +2,6 @@
 
 KitchenPal is a cross-platform mobile application developed for a university project. It's designed to help users manage their kitchen inventory and discover new recipes through the power of generative AI.
 
-![KitchenPal App Screenshot](<Your Screenshot URL Here>)
-
 ---
 
 ## 🌟 Features
